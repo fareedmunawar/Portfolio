@@ -18,23 +18,23 @@
               </div>
               <div class="intro--options">
                 <a href="#0">
-                  <h3>Metiew &amp; Smith</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                  <h3>Abdullah &amp; Fareed</h3>
+                  <p>Full stack developers with the Expertise.</p>
                 </a>
                 <a href="#0">
                   <h3>Fantasy interactive</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                  <p>We create the Design which attract every person .</p>
                 </a>
                 <a href="#0">
-                  <h3>Paul &amp; shark</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                  <h3>Zayaan &amp; Aashir</h3>
+                  <p>We Create Functions the need of every one.</p>
                 </a>
               </div>
             </div>
           </li>
           <li class="l-section section">
             <div class="work">
-              <h2>Selected work</h2>
+              <h2>Top #3 developers</h2>
               <div class="work--lockup">
                 <ul class="slider">
                   <li class="slider--item slider--item-left">
@@ -42,17 +42,17 @@
                       <div class="slider--item-image">
                         <img src="assets/img/work-victory.jpg" alt="Victory">
                       </div>
-                      <p class="slider--item-title">Victory</p>
-                      <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                      <p class="slider--item-title">Zayaan Zubair</p>
+                      <p class="slider--item-description">I am full stack developer known as the backend King.</p>
                     </a>
                   </li>
                   <li class="slider--item slider--item-center">
                     <a href="#0">
                       <div class="slider--item-image">
-                        <img src="assets/img/work-metiew-smith.jpg" alt="Metiew and Smith">
+                        <img src="assets/img/work-victory.jpg" alt="Metiew and Smith">
                       </div>
-                      <p class="slider--item-title">Metiew &amp; Smith</p>
-                      <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                      <p class="slider--item-title">Abdullah &amp; Fareed</p>
+                      <p class="slider--item-description">We are the designers which can create any design you want.</p>
                     </a>
                   </li>
                   <li class="slider--item slider--item-right">
@@ -60,7 +60,7 @@
                       <div class="slider--item-image">
                         <img src="assets/img/work-alex-nowak.jpg" alt="Alex Nowak">
                       </div>
-                      <p class="slider--item-title">Alex Nowak</p>
+                      <p class="slider--item-title">A</p>
                       <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
                     </a>
                   </li>
