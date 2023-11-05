@@ -12,10 +12,9 @@
   <link rel="stylesheet" href="{{ asset('assets/css/work.css')}}">
 </head>
 <body>
-
 <!-- notification for small viewports and landscape oriented smartphones -->
 <div class="device-notification">
-  <a class="device-notification--logo" href="#0">
+  <a class="device-notification--logo" href="/">
     <img src="assets/img/logo.png" alt="PQIK.TECH">
     <p>PQIK.TECH</p>
   </a>
@@ -27,7 +26,7 @@
     <div id="viewport" class="l-viewport">
       <div class="l-wrapper">
         <header class="header">
-          <a class="header--logo" href="#0">
+          <a class="header--logo" href="/">
             <img src="assets/img/logo.png" alt="PQIK.TECH">
             <p>PQIK.TECH</p>
           </a>
@@ -39,27 +38,23 @@
         <nav class="l-side-nav">
           <ul class="side-nav">
             <li class="is-active"><span>Home</span></li>
-            <li><span>Works</span></li>
+            <li><span>Developers</span></li>
             <li><span>About</span></li>
             <li><span>Contact</span></li>
             <li><span>Our Prices</span></li>
-            <li><span>Hire us</span></li>
-            
+            <li><span>Hire us</span></li>            
           </ul>
         </nav>
 @yield('body')
-
 <ul class="outer-nav">
     <li class="is-active">Home</li>
-    <li>Works</li>
+    <li>Developers</li>
     <li>About</li>
     <li>Contact</li>
     <li>Our Prices</li>
-    <li>Hire us</li>
-    
+    <li>Hire us</li>    
   </ul>
 </div>
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-2.2.4.min.js"><\/script>')</script>
 <script src="assets/js/functions-min.js"></script>
