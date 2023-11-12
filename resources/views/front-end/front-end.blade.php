@@ -18,7 +18,7 @@
               </div>
               <div class="intro--options">
                 <a href="#0">
-                  <h3>Abdullah &amp; Fareed</h3>
+                  <h3>Fareed Munawar</h3>
                   <p>Full stack developers with the Expertise.</p>
                 </a>
                 <a href="#0">
@@ -26,7 +26,7 @@
                   <p>We create the Design which attract every person .</p>
                 </a>
                 <a href="#0">
-                  <h3>Zayaan &amp; Aashir</h3>
+                  <h3>Zayaan</h3>
                   <p>We Create Functions the need of every one.</p>
                 </a>
               </div>
@@ -51,7 +51,7 @@
                       <div class="slider--item-image">
                         <img src="assets/img/work-victory.jpg" alt="Metiew and Smith">
                       </div>
-                      <p class="slider--item-title">Abdullah &amp; Fareed</p>
+                      <p class="slider--item-title">Fareed</p>
                       <p class="slider--item-description">We are the designers which can create any design you want.</p>
                     </a>
                   </li>
@@ -60,7 +60,7 @@
                       <div class="slider--item-image">
                         <img src="assets/img/work-alex-nowak.jpg" alt="Alex Nowak">
                       </div>
-                      <p class="slider--item-title">A</p>
+                      <p class="slider--item-title">Abdullah</p>
                       <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
                     </a>
                   </li>
@@ -119,13 +119,13 @@
                 <div class="modal">
                   <div class="modal--information">
                     <p>Pawia 5, 31-154 Kraków, Poland</p>
-                    <a href="mailto:ouremail@gmail.com">ouremail@gmail.com</a>
+                    <a href="mailto:pqik@gmail.com">pqik@gmail.com</a>
                     <a href="tel:+148126287560">+48 12 628 75 60</a>
                   </div>
                   <ul class="modal--options">
-                    <li><a href="#0">Bēhance</a></li>
-                    <li><a href="#0">dribbble</a></li>
-                    <li><a href="mailto:ouremail@gmail.com">Contact Us</a></li>
+                    <li><a href="#0">LinkedIn</a></li>
+                    <li><a href="#0">Instagram</a></li>
+                    <li><a href="mailto:pqik@gmail.com">Contact Us</a></li>
                   </ul>
                 </div>
               </div>
@@ -133,36 +133,43 @@
           </li>
           <li class="l-section section">
             <div class="work">
-              <h2>Top #3 developers</h2>
+              <h2>Our Prices</h2>
               <div class="work--lockup">
                 <ul class="slider slider-price">
-                  <li class="slider-item slider-item-left">
-                    <a href="#0">
-                      <div class="slider-item-image">
-                        <img src="assets/img/work-victory.jpg" alt="Victory">
-                      </div>
-                      <p class="slider-item-title">Zayaan Zubair</p>
-                      <p class="slider-item-description">I am full stack developer known as the backend King.</p>
-                    </a>
-                  </li>
-                  <li class="slider-item slider-item-center">
-                    <a href="#0">
-                      <div class="slider-item-image">
-                        <img src="assets/img/work-victory.jpg" alt="Metiew and Smith">
-                      </div>
-                      <p class="slider-item-title">Abdullah &amp; Fareed</p>
-                      <p class="slider-item-description">We are the designers which can create any design you want.</p>
-                    </a>
-                  </li>
-                  <li class="slider-item slider-item-right">
-                    <a href="#0">
-                      <div class="slider-item-image">
-                        <img src="assets/img/work-alex-nowak.jpg" alt="Alex Nowak">
-                      </div>
-                      <p class="slider-item-title">A</p>
-                      <p class="slider-item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
-                    </a>
-                  </li>
+                 <li class="slider-item slider-item-left">
+    <a href="#0">
+        <div class="slider-item-image">
+            <img src="assets/img/prices.jpg" alt="Victory">
+        </div>
+        <p class="slider-item-title">Basic</p>
+        <p class="slider-item-price">$19.99/month</p>
+        <p class="slider-item-budget">Budget-friendly</p>
+        <p class="slider-item-emoji">&#10003; Quality Service</p> 
+    </a>
+</li>
+<li class="slider-item slider-item-center">
+    <a href="#0">
+        <div class="slider-item-image">
+            <img src="assets/img/prices.jpg" alt="Metiew and Smith">
+        </div>
+        <p class="slider-item-title">Premium</p>
+        <p class="slider-item-price">$49.99/month</p>
+        <p class="slider-item-budget">Great Value</p>
+        <p class="slider-item-emoji">&#10003; Exclusive Features</p>
+    </a>
+</li>
+<li class="slider-item slider-item-right">
+    <a href="#0">
+        <div class="slider-item-image">
+            <img src="assets/img/prices.jpg" alt="Alex Nowak">
+        </div>
+        <p class="slider-item-title">Gold</p>
+        <p class="slider-item-price">$99.99/month</p>
+        <p class="slider-item-budget">Luxury Experience</p>
+        <p class="slider-item-emoji">&#10060; Limited Availability</p>
+    </a>
+</li>
+
                 </ul>
                 <div class="slider-prev">
                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -188,10 +195,11 @@
             <div class="hire">
               <h2>You want us to do</h2>
               <!-- checkout formspree.io for easy form setup -->
-              <form class="work-request">
+              <form class="work-request" method="post" action="{{ url('/submit-form') }}">
+              @csrf
                 <div class="work-request--options">
                   <span class="options-a">
-                    <input id="opt-1" type="checkbox" value="Web Application">
+                    <input id="opt-1" type="checkbox" name="options[]" value="Web Application">
                     <label for="opt-1">
                       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                       viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
@@ -201,7 +209,7 @@
                       </svg>
                       Web Application
                     </label>
-                    <input id="opt-2" type="checkbox" value="graphic design">
+                    <input id="opt-2" type="checkbox" name="options[]" value="graphic design">
                     <label for="opt-2">
                       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                       viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
@@ -211,7 +219,7 @@
                       </svg>
                       Graphic Design
                     </label>
-                    <input id="opt-3" type="checkbox" value="Template design">
+                    <input id="opt-3" type="checkbox" name="options[]" value="Template design">
                     <label for="opt-3">
                       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                       viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
@@ -223,7 +231,7 @@
                     </label>
                   </span>
                   <span class="options-b">
-                    <input id="opt-4" type="checkbox" value="ux design">
+                    <input id="opt-4" type="checkbox"  name="options[]" value="ux design">
                     <label for="opt-4">
                       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                       viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
@@ -233,7 +241,7 @@
                       </svg>
                         WebMaintanance 
                     </label>
-                    <input id="opt-5" type="checkbox" value="webdesign">
+                    <input id="opt-5" type="checkbox"  name="options[]" value="webdesign">
                     <label for="opt-5">
                       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                       viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
@@ -243,7 +251,7 @@
                       </svg>
                       Webdesign
                     </label>
-                    <input id="opt-6" type="checkbox" value="Seo">
+                    <input id="opt-6" type="checkbox"  name="options[]" value="Seo">
                     <label for="opt-6">
                       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                       viewBox="0 0 150 111" style="enable-background:new 0 0 150 111;" xml:space="preserve">
@@ -257,11 +265,11 @@
                 </div>
                 <div class="work-request--information">
                   <div class="information-name">
-                    <input id="name" type="text" spellcheck="false">
+                    <input id="name" type="text"   name="name" spellcheck="false" required>
                     <label for="name">Name</label>
                   </div>
                   <div class="information-email">
-                    <input id="email" type="email" spellcheck="false">
+                    <input id="email" type="email"  name="email" spellcheck="false" value="{{ old('email') }}" required>
                     <label for="email">Email</label>
                   </div>
                 </div>
@@ -269,7 +277,6 @@
               </form>
             </div>
           </li>
-          
         </ul>
       </div>
     </div>
