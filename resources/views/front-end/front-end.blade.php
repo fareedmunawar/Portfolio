@@ -51,7 +51,7 @@
                   <li class="slider--item slider--item-center">
                     <a href="#0">
                       <div class="slider--item-image">
-                        <img src="assets/img/zaayan.jpg" alt="Metiew and Smith">
+                        <img src="assets/img/zaayan-2.png" alt="Metiew and Smith">
                       </div>
                       <p class="slider--item-title">Zayaan Zubair</p>
                       <p class="slider--item-description">Founder</p>
