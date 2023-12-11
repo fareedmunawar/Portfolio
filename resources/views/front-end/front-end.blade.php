@@ -106,6 +106,9 @@
                 <a href="https://clothshop.pqik.pk/">
                   <h3>Cloth Shop </h3>
                 </a>
+                <a href="https://pharmacy.pqik.pk/">
+                  <h3>Pharmacy </h3>
+                </a>
               </div>
             </div>
           </li>
