@@ -18,7 +18,7 @@
     <img src="assets/img/logo.png" alt="PQIK.TECH">
     <p>PQIK.TECH</p>
   </a>
-  <p class="device-notification--message">PQIK.TECH has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed.</p>
+  <p class="device-notification--message">PQIK.TECH has so much to offer that we must request you orient your device to portrait or find a larger screen. You won't be disappointed. Website is under construction </p>
 </div>
 
 <div class="perspective effect-rotate-left">

@@ -5,7 +5,7 @@
           <li class="l-section section section--is-active">
             <div class="intro">
               <div class="intro--banner">
-              <h1>Unlock Your<br> Potential <br> with Expertise</h1>
+              <h1>Unlock Your<br> Potential <br> with Expertise</h1> <h5>Website under construction</h5>
                 <button class="cta">Hire Us
                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
                   <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
@@ -22,12 +22,12 @@
                   <p>Full stack developers with the Expertise.</p>
                 </a>
                 <a href="#0">
-                  <h3>Fantasy interactive</h3>
+                  <h3>Abdullah</h3>
                   <p>We create the Design which attract every person .</p>
                 </a>
                 <a href="#0">
-                  <h3>Zayaan</h3>
-                  <p>We Create Functions the need of every one.</p>
+                  <h3>Zayaan Zubair</h3>
+                  <p>Full stack developer with the Expertise.</p>
                 </a>
               </div>
             </div>
@@ -61,7 +61,7 @@
                         <img src="assets/img/work-alex-nowak.jpg" alt="Alex Nowak">
                       </div>
                       <p class="slider--item-title">Abdullah</p>
-                      <p class="slider--item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do.</p>
+                      <p class="slider--item-description">We are the designers which can create any design you want..</p>
                     </a>
                   </li>
                 </ul>
@@ -89,26 +89,20 @@
             <div class="about">
               <div class="about--banner">
                 <h2>We<br>Provide <br>the<br>Best</h2>
-                <a href="#0">Check Out Prices 
-                  <span>
-                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
-                    <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
-                      <path d="M870,1167c-34-17-55-57-46-90c3-15,81-100,194-211l187-185l-565-1c-431,0-571-3-590-13c-55-28-64-94-18-137c21-20,33-20,597-20h575l-192-193C800,103,794,94,849,39c20-20,39-29,61-29c28,0,63,30,298,262c147,144,272,271,279,282c30,51,23,60-219,304C947,1180,926,1196,870,1167z"/>
-                    </g>
-                    </svg>
-                  </span>
+                <a href="#0">This Website is under construction  
+                  
                 </a>
                 <img src="assets/img/about-visual.png" alt="About Us">
               </div>
               <div class="about--options">
-                <a href="#0">
-                  <h3>Ecommerce </h3>
+                <a href="https://bookstore.pqik.pk/">
+                  <h3>BookStore </h3>
                 </a>
-                <a href="#0">
-                  <h3>Law Firm </h3>
+                <a href="https://cosmetics.pqik.pk/">
+                  <h3>Cosmetics </h3>
                 </a>
-                <a href="#0">
-                  <h3>Lab Automation </h3>
+                <a href="https://clothshop.pqik.pk/">
+                  <h3>Cloth Shop </h3>
                 </a>
               </div>
             </div>
@@ -118,14 +112,14 @@
               <div class="contact--lockup">
                 <div class="modal">
                   <div class="modal--information">
-                    <p>Pawia 5, 31-154 Kraków, Poland</p>
-                    <a href="mailto:pqik@gmail.com">pqik@gmail.com</a>
-                    <a href="tel:+148126287560">+48 12 628 75 60</a>
+                    <p>Karachi Pakistan</p>
+                    <a href="mailto:bdullah@pqik.pk">abdullah@pqik.pk</a>
+                    <a href="tel:+923182288026">+923182288026</a>
                   </div>
                   <ul class="modal--options">
                     <li><a href="#0">LinkedIn</a></li>
                     <li><a href="#0">Instagram</a></li>
-                    <li><a href="mailto:pqik@gmail.com">Contact Us</a></li>
+                    <li><a href="mailto:abdullah@pqik.pk">Contact Us</a></li>
                   </ul>
                 </div>
               </div>
@@ -142,7 +136,7 @@
             <img src="assets/img/prices.jpg" alt="Victory">
         </div>
         <p class="slider-item-title">Basic</p>
-        <p class="slider-item-price">$19.99/month</p>
+        <p class="slider-item-price">For pricing details, contact <br> us via email</p>
         <p class="slider-item-budget">Budget-friendly</p>
         <p class="slider-item-emoji">&#10003; Quality Service</p> 
     </a>
@@ -153,7 +147,7 @@
             <img src="assets/img/prices.jpg" alt="Metiew and Smith">
         </div>
         <p class="slider-item-title">Premium</p>
-        <p class="slider-item-price">$49.99/month</p>
+        <p class="slider-item-price">For pricing details, contact <br>us via email</p>
         <p class="slider-item-budget">Great Value</p>
         <p class="slider-item-emoji">&#10003; Exclusive Features</p>
     </a>
@@ -164,7 +158,7 @@
             <img src="assets/img/prices.jpg" alt="Alex Nowak">
         </div>
         <p class="slider-item-title">Gold</p>
-        <p class="slider-item-price">$99.99/month</p>
+        <p class="slider-item-price">For pricing details, contact <br> us via email. </p>
         <p class="slider-item-budget">Luxury Experience</p>
         <p class="slider-item-emoji">&#10060; Limited Availability</p>
     </a>
@@ -193,7 +187,7 @@
           </li>
           <li class="l-section section">
             <div class="hire">
-              <h2>You want us to do</h2>
+              <h2>These Features will be available soon thanks for your patience </h2>
               <!-- checkout formspree.io for easy form setup -->
               <form class="work-request" method="post" action="{{ url('/submit-form') }}">
               @csrf
