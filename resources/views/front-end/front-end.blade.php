@@ -36,25 +36,25 @@
           </li>
           <li class="l-section section">
             <div class="work">
-              <h2>Top #3 developers</h2>
+              <h2>Founders of PQIK.PK</h2>
               <div class="work--lockup">
                 <ul class="slider slider-work">
                   <li class="slider--item slider--item-left">
                     <a href="#0">
                       <div class="slider--item-image">
-                        <img src="assets/img/work-victory.jpg" alt="Victory">
+                        <img src="assets/img/fareed.jpg" alt="Victory">
                       </div>
-                      <p class="slider--item-title">Zayaan Zubair</p>
-                      <p class="slider--item-description">I am full stack developer known as the backend King.</p>
+                      <p class="slider--item-title">Fareed Munawar</p>
+                      <p class="slider--item-description">CoFounder</p>
                     </a>
                   </li>
                   <li class="slider--item slider--item-center">
                     <a href="#0">
                       <div class="slider--item-image">
-                        <img src="assets/img/work-victory.jpg" alt="Metiew and Smith">
+                        <img src="assets/img/zaayan.jpg" alt="Metiew and Smith">
                       </div>
-                      <p class="slider--item-title">Fareed</p>
-                      <p class="slider--item-description">We are the designers which can create any design you want.</p>
+                      <p class="slider--item-title">Zayaan Zubair</p>
+                      <p class="slider--item-description">Founder</p>
                     </a>
                   </li>
                   <li class="slider--item slider--item-right">
@@ -63,7 +63,7 @@
                         <img src="assets/img/work-alex-nowak.jpg" alt="Alex Nowak">
                       </div>
                       <p class="slider--item-title">Abdullah</p>
-                      <p class="slider--item-description">We are the designers which can create any design you want..</p>
+                      <p class="slider--item-description">CoFounder</p>
                     </a>
                   </li>
                 </ul>
