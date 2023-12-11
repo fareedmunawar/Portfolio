@@ -60,7 +60,7 @@
                   <li class="slider--item slider--item-right">
                     <a href="#0">
                       <div class="slider--item-image">
-                        <img src="assets/img/work-alex-nowak.jpg" alt="Alex Nowak">
+                        <img src="assets/img/abdullah.jpg" alt="Alex Nowak">
                       </div>
                       <p class="slider--item-title">Abdullah</p>
                       <p class="slider--item-description">CoFounder</p>
