@@ -267,7 +267,7 @@
                     <label for="email">Email</label>
                   </div>
                 </div>
-                <input type="submit" value="Send Request">
+               
               </form>
             </div>
           </li>
