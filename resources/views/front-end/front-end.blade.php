@@ -5,7 +5,8 @@
           <li class="l-section section section--is-active">
             <div class="intro">
               <div class="intro--banner">
-              <h1>Unlock Your<br> Potential <br> with Expertise</h1> <h5>Website under construction</h5>
+                
+              <h1>Unlock Your<br> Potential <br> with Expertise</h1> 
                 <button class="cta">Hire Us
                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
                   <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
@@ -14,6 +15,7 @@
                   </svg>
                   <span class="btn-background"></span>
                 </button>
+                <h3 style="color:red!important;" >This Site is under construction</h3>
                 <img src="assets/img/introduction-visual.png" alt="Welcome">
               </div>
               <div class="intro--options">
